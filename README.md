@@ -1,6 +1,6 @@
 # Who Wrote This Shit
 
-Simple demonstration program to find out who wrote the something online.
+Simple demonstration program to find out who wrote something.
 
 
 ## Usage
@@ -13,7 +13,7 @@ Simple demonstration program to find out who wrote the something online.
 	optional arguments:
 	  -h, --help            show this help message and exit
 	  -F FILE, --file FILE  Input file
-	  -T TAG, --tag TAG     Tag, e.g. 'Thaddeus T. Grugq' or '@thegruugq'
+	  -T TAG, --tag TAG     Tag, e.g. 'Thaddeus T. Grugq' or '@thegrugq'
 	  -t, --train           Training mode
 	  -g, --guess           Guessing mode
 

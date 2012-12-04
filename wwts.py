@@ -11,7 +11,7 @@ import lib.bayes as bayes
 def main():
     parser = argparse.ArgumentParser(description='Who wrote this shit?')
     parser.add_argument('-F', '--file', required=True, help='Input file')
-    parser.add_argument('-T', '--tag', help='Tag, e.g. \'Thaddeus T. Grugq\' or \'@thegruugq\'')
+    parser.add_argument('-T', '--tag', help='Tag, e.g. \'Thaddeus T. Grugq\' or \'@thegrugq\'')
     parser.add_argument('-t', '--train', action='store_true', help='Training mode')
     parser.add_argument('-g', '--guess', action='store_true', help='Guessing mode')
     args = parser.parse_args()
