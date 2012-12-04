@@ -1,6 +1,6 @@
 # Who Wrote This Shit
 
-Simple demonstration program to find out who wrote the something.
+Simple demonstration program to find out who wrote something.
 
 
 ## Usage
