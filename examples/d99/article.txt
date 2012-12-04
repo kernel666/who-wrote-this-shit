@@ -1,0 +1,82 @@
+Di Balik 'Teror' Peti Mati Senin Pagi
+
+Sudahkah Anda menerima peti mati hari ini? Senin (6/6) pagi, sejumlah kantor media kedatangan paket mengejutkan. Bentuknya peti mati dengan tulisan "R.I.P" alias rest in peace.
+
+Peti-peti yang antara lain diterima Tempo, Detik, Kompas, Jakarta Post, ANTV, itu dialamatkan ke nama tertentu yang bekerja di media tersebut. Di Tempo, yang jadi tujuan adalah Wicaksono, wakil pemimpin redaksi tempointeraktif.com. Di ANTV, yang jadi tujuan adalah Uni Lubis.
+
+Tak hanya media, sejumlah tempat yang dekat dengan komunitas dan pemasaran juga menjadi tujuan. Misalnya Enda Nasution di markas salingsilang.com di kawasan Jalan Langsat, Jakarta Selatan. Melalui akun Twitternya, Enda berkomentar bahwa peti mati itu tak bisa dianggap sukses bila disebut teror, sebab tak ada tuntutannya.
+
+Di Twitter, soal peti mati itu memang menjadi topik hangat. Ada yang mengaitkan dengan teror, ada juga yang menduga itu sejenis kampanye pemasaran. Yang mana yang benar?
+
+Melalui alamat web yang ditinggalkan pengirim di peti matinya, yaitu restinpeacesoon.com, bisa ditelusuri nama pengelola website yang masih dalam konstruksi itu. Sang admin bernama Dukha Ngabdul Wasih. Melalui telepon, dia mengaku mendapat pesanan untuk mengerjakan situs itu yang direncanakan tayang pada Senin ini juga. 
+
+Dari Dukha, Yahoo! Indonesia mendapat nama "Mavens Co" sebagai pemesan, atas nama Sumardy. Dihubungi belakangan, Sumardy mengaku sebagai CEO dari Buzz&Co, perusahaan yang ia dirikan akhir tahun 2010.
+
+Sumardy mengakui dirinyalah yang berada di balik pengiriman peti-peti mati itu. "Semuanya ada seratus peti, 90 persen dikirim ke orang (yang bergiat di bidang) marketing dan agensi periklanan," kata pria yang mengaku berusia 30 tahun itu.
+
+Sumardy juga mengaku mengirim ke sedikit media massa--yang lalu memberitakan datangnya peti-peti mati itu. Apa motif Sumardy? Rupanya, ini terkait peluncuran buku berjudul "Rest in Peace Advertising" yang ia tulis. "Ini buku pertama saya," kata dia.
+
+Ide dasarnya, kata Sumardy, adalah pemikiran bahwa iklan sudah mati karena tak efektif. Ia mencontohkan, untuk mempromosikan buku yang berisi pemikiran itu, ia hanya membelanjakan sekian puluh juta. "Ini hanya cukup untuk berapa spot iklan?" ujar dia.
+
+Sumardy juga meminta maaf bila ada yang merasa terteror akibat aksinya. Ia mengaku tak berniat jahat. Di peti-peti mati, dia meletakkan alamat yang jelas. "Ada website yang bisa diakses. Kami tak menutupi apapun," kata dia, menegaskan bahwa kampanyenya itu adalah bagian dari perwujudan ide kreatif dan edukasi terhadap praktisi pemasaran dan publik secara umum.
+
+Sumardy juga mempersilakan orang datang ke kantornya yang ada di Gedung Mayapada, Jalan Sudirman, Jakarta, dan di Senayan Trade Center lantai tiga, kompleks Senayan. "Silakan datang, ada bukunya di sini," kata dia.
+
+Hingga Senin sekitar jam makan siang, situs restinpeacesoon.com itu masih menunjukkan pesan "dalam pengembangan".
+Ketika WordPress dkk Dibobol
+
+Judul tulisan di blog itu "Insiden Keamanan". Penting, sebab penulisnya adalah Matt Mullenweg, pendiri WordPress, dan ditulis di blog resmi WordPress. Singkatnya, server Automattic.com, yang menyimpan data sejumlah layanan seperti WordPress, dibobol dan Mullenweg memutuskan untuk jujur kepada publik.
+
+Di blog itu, kata Mullenweg, pembobolan ke sejumlah server Automattic terjadi pada Rabu (13/4). Menurut dia, pembobolan itu berkategori "low-level (root) break-in". Artinya, ada potensi apa pun yang ada di server itu diakses oleh si pembobol.
+
+Bagi pengguna WordPress, ini tentu bukan hal menggembirakan. Selain WordPress, server-server Automattic juga menyimpan kode-kode dan data partner seperti Akismet, Gravatar, dan lain-lain.
+
+Automattic sudah mempelajari bagaimana pembobolan itu dilakukan, dan sejauh apa informasi yang terekspos ke si pembobol. Dan, "Kami sudah mengamankan jalan masuk yang dipakai si pengakses," kata Mullenweg.
+
+Mullenweg menambahkan, pihaknya menganggap source code mereka sudah terekspos dan disalin. "Banyak kode kami yang Open Source, namun ada beberapa bagian sensitif pada kode kami dan partner kami," kata dia. Namun, berdasar pemeriksaan menyeluruh dan audit sistem, informasi yang terpapar ke pembobol ternyata hanyalah terbatas.
+
+Berdasar itu, Mullenweg tak punya saran khusus kepada pengguna, selain kembali mengingatkan langkah-langkah keamanan mendasar: gunakan password yang kuat, gunakan password berbeda untuk situs berbeda, dan bila ada password sama telah digunakan di situs lain, gantilah password itu dengan yang lebih aman.
+
+"Kami sudah mengambil langkah preventif agar insiden serupa tidak terjadi lagi," kata Mullenweg.
+
+Keterbukaan Mullenweg itu disambut baik oleh pengguna. Di halaman komentar, sejumlah masukan positif ditulis, yang intinya tetap merasa percaya dengan WordPress karena mereka terbuka.
+
+Yang jadi pertanyaan: apakah pembobolan ini hanya bisa berpengaruh pada blog di WordPress.com saja, atau juga ke WordPress yang disimpan di server lain, seperti misalnya blog-blog pribadi? Kata Matt Mullenweg, "Pembobolan ini menyangkut juga situs WordPress.org, tapi tidak kepada perangkat lunak WordPress yang Anda simpan di tempat lain."
+
+Ada juga pengguna yang bertanya tentang nasib password Twitter yang terhubung dengan akun WordPressnya. "Kami tak menyimpan password Twitter Anda, jadi tak perlu khawatir," kata Mullenweg.
+
+Nah, bagi pengguna WordPress.com, segeralah ganti password Anda dengan yang lebih kuat.
+Menengok Zoetrope di Goelali
+
+Akhir pekan lalu, kerumunan anak-anak berkumpul di sebuah mal di Jakarta Selatan. Yang mereka tunggu adalah gelaran festival anak-anak bernama Goelali Festival.
+Tahun ini, tema acara itu adalah "The Secret Garden-Taman Imajinasi" pada 22 hingga 26 Juni lalu. Tahun ini, mereka mengusung konsep hijau dalam kreativitas.
+Ada rangkaian film gratis, sejumlah pameran, workshop membuat film dan animasi. Aktivitas interaktif bagi anak-anak yang terlibat, antara lain, adalah memberi makan kuda poni, menanam padi, mendengar dongeng di rumah pohon, menghias cupcake.
+Animasi Zoetrope, berbentuk silinder besar ilusi animasi dengan cara diputar, juga diboyong ke arena pameran animasi.
+Tentu saja, sejumlah film pilihan dari luar juga dari dalam negeri diputar. Salah satu film Indonesia yang diputar adalah sebuah film lama berjudul "Ira Maya dan Kakek Ateng".
+Yudhoyono: Jalan Tengah Saya Dipandang Kurang Tegas
+
+Senin lalu, wawancara Presiden Susilo Bambang Yudhoyono disiarkan televisi Amerika Serikat di The Charlie Rose Show. Charlie Rose adalah seorang jurnalis AS. Baru-baru ini, ia datang ke Indonesia mewawancara sejumlah orang sebelum sesi tanya jawab dengan Yudhoyono.
+
+Di wawancara itu, Rose menodong Yudhoyono dengan sejumlah pertanyaan menarik, seperti bagaimana ia menanggapi pendapat umum bahwa sang presiden kurang tegas, terutama dalam menghadapi sejumlah gerakan radikal, juga siapa yang ia persiapkan untuk 2014. "Saya belum temukan sekarang, tapi saya harap nantinya bisa memberikan dukungan kepada seseorang," kata Yudhoyono.
+
+Indonesia tak butuh orang kuat
+Sebelum wawancara dengan Yudhoyono, Charlie Rose bertanya ke sejumlah tokoh, antara lain anggota Dewan Pers Bambang Harymurti, tentang kritik publik terhadap Yudhoyono yang dipandang kerap terlalu berhati-hati, dipandang lemah dan peragu. "Bagi saya pribadi, dan pendapat saya ini minoritas, rakyat Indonesia saat ini tidak butuh orang yang kuat, karena demokrasi justru bisa tak berfungsi. Mereka terbiasa dengan pemimpin yang kuat di masa lalu. Bila ingin demokrasi berhasil, harus ada perasaan bahwa demokrasi bergantung pada Anda," kata Bambang.
+
+Presiden Susilo Bambang Yudhoyono mengakui naiknya radikalisme Islam, tapi tak mengkhawatirkan hal itu berkembang di luar kendali. Menurut dia, kelompok radikal hanya memiliki sedikit anggota. Ia yakin pemerintah bisa mengendalikan aktivitas kelompok radikal dengan cara menguatkan pemimpin-pemimpin agama melalui antara lain pendidikan.
+
+Dalam pandangan dunia internasional, transisi Indonesia menuju demokrasi memang dipuji. Namun, kelompok-kelompok hak asasi menyuarakan masih adanya kekerasan terhadap minoritas yang justru meningkat di bawah era Yudhoyono.
+
+Jalan tengah dianggap tak tegas
+Februari lalu, tiga anggota Ahmadiyah dibunuh secara brutal oleh kelompok fanatik. Untuk menghadapi kasus semacam itu, agaknya kepemimpinan tegaslah yang dibutuhkan. "Saya pikir rakyat menginginkan Anda lebih tegas, bersuara lebih lantang mengenai pluralisme Indonesia," kata Charlie Rose.
+
+Menanggapi itu, Yudhoyono mengatakan ia berhati-hati karena ingin meyakinkan orang Indonesia bahwa aksi melawan terorisme bukanlah menargetkan Islam. "Saya sangat ingin menyatakan bahwa kami sangat serius melakukan kampanye antiterorisme di Indonesia, dengan segala cara. Tapi, tentu saja, saya harus menjaga iklim persaudaraan di Indonesia, sebab mayoritas populasi adalah muslim, maka saya mencoba menjaga perasaan mereka, karena kadang-kadang kebijakan pemerintah disalahartikan," kata Yudhoyono.
+
+Penyalahartian itu, kata Yudhoyono, datang dalam bentuk manipulasi bahwa kampanye antiteror itu adalah perang terhadap Islam. "Saya mencoba meyakinkan rakyat bahwa pemerintah melawan terorisme dan radikalisme," ujar Presiden.
+
+"Kadang-kadang, saya bisa mengerti kenapa orang-orang menginginkan saya tegas dalam beberapa hal. Dalam banyak hal, saya mengambil keputusan cepat dan aksi tegas, karena itu dibutuhkan. Di sisi lain, masalah begitu kompleks. Saya tak ingin memecahkan satu masalah malah hanya menciptakan masalah lain."
+
+Presiden memberi contoh saat menghadapi isu kelompok radikal. Satu kutub meminta Yudhoyono membubarkan sebuah sekte religius, sementara kutub yang lain memintanya jangan coba-coba karena kepercayaan adalah hak seseorang. "Jadi kebijakan saya adalah menghargai kepercayaan, tapi kami regulasi aktivitas untuk menghindari bentrok fisik antar dua kelompok itu," ujar Yudhoyono.
+
+Presiden SBY menyebut itu sebagai "middle way approach". "Di sisi lain bisa dilihat sebagai kurang tegas. Tapi, dalam kasus ini, saya sangat percaya posisi inilah yang tepat. Bila tidak, akan muncul masalah lain."
+
+Bila Anda ingin menyimak lengkapnya, lihat di situs Charlie Rose di tautan ini.
