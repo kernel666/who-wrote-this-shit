@@ -20,14 +20,15 @@ Simple demonstration program to find out who wrote something.
 
 ### Training
 
-	$ python wwts.py --file examples/d99/tweet.txt --train --tag '@d99'
-	$ python wwts.py --file examples/bc/tweet.txt --train --tag '@bennychandra'
-	$ python wwts.py --file examples/gq/tweet.txt --train --tag '@thegrugq'
+	$ python wwts.py --file examples/d99/article.txt --train --tag '@d99'
+	$ python wwts.py --file examples/bc/article.txt --train --tag '@bennychandra'
 
 ### Guessing
 
-	$ python wwts.py --file examples/unknown/test.txt --guess
-	[('@bennychandra', 0.8954002478493908), ('@thegrugq', 0.7109256426967558)]
+	$ python wwts.py --file examples/unknown/article.txt --guess
+	[('@d99', 0.7474532128163579), ('@bennychandra', 0.6844689616042425)]
+	$ python wwts.py --file examples/unknown/article2.txt --guess
+	[('@bennychandra', 0.8276354287373211), ('@d99', 0.4619067492669147)]
 
 ## Similar approaches:
 
