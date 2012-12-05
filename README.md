@@ -32,3 +32,5 @@ Simple demonstration program to find out who wrote something.
 ## Similar approaches:
 
 * Dave Aitel's [Umask](http://www.immunitysec.com/downloads/unmask1.0.tar.gz), released in 2002. 
+* [The Signature Stylometric System](http://www.philocomp.net/?pageref=humanities&page=signature)
+* [JGAAP](http://evllabs.com/jgaap/w/index.php/Main_Page) (Java Graphical Authorship Attribution Program)
