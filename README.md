@@ -18,14 +18,17 @@ Simple demonstration program to find out who wrote something.
 	  -g, --guess           Guessing mode
 
 
-## Training
+### Training
 
 	$ python wwts.py --file examples/d99/tweet.txt --train --tag '@d99'
 	$ python wwts.py --file examples/bc/tweet.txt --train --tag '@bennychandra'
 	$ python wwts.py --file examples/gq/tweet.txt --train --tag '@thegrugq'
 
-## Guessing
+### Guessing
 
 	$ python wwts.py --file examples/unknown/test.txt --guess
 	[('@bennychandra', 0.8954002478493908), ('@thegrugq', 0.7109256426967558)]
 
+## Similar approaches:
+
+* Dave Aitel's [Umask](http://www.immunitysec.com/downloads/unmask1.0.tar.gz), released in 2002. 
