@@ -1,7 +1,8 @@
 # Who Wrote This Shit
 
-Simple demonstration program to find out who wrote something.
+Simple demonstration forensic linguistics program analysing a document based on linguistic style to attribute the authorship to anonymous or disputed documents.
 
+**Note**: This program is considered primitive and might be rewritten later.
 
 ## Usage
 
@@ -35,3 +36,9 @@ Simple demonstration program to find out who wrote something.
 * Dave Aitel's [Umask](http://www.immunitysec.com/downloads/unmask1.0.tar.gz), released in 2002. 
 * [The Signature Stylometric System](http://www.philocomp.net/?pageref=humanities&page=signature)
 * [JGAAP](http://evllabs.com/jgaap/w/index.php/Main_Page) (Java Graphical Authorship Attribution Program)
+
+## Further reading
+
+* [Stylometry](http://en.wikipedia.org/wiki/Stylometry)
+* [Writeprint](http://en.wikipedia.org/wiki/Writeprint)
+
