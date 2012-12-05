@@ -16,9 +16,9 @@ def main():
     parser.add_argument('-g', '--guess', action='store_true', help='Guessing mode')
     args = parser.parse_args()
     
-    gtw = bayes.Bayes()
+    wwts = bayes.Bayes()
     try:
-        gtw.load()
+        wwts.load()
     except:
         if args.train:
             pass
@@ -29,11 +29,11 @@ def main():
         if not args.tag:
             parser.error('argument -T/--tag is required.')
         with codecs.open(args.file, 'r', encoding='utf-8') as content:
-            gtw.train(args.tag, content.read())
-            gtw.save()
+            wwts.train(args.tag, content.read())
+            wwts.save()
     elif args.guess:
         with codecs.open(args.file, 'r', encoding='utf-8') as content:
-            print gtw.guess(content.read())
+            print wwts.guess(content.read())
     else:
         parser.error('argument -t/--train or -g/--guess is required')
 
